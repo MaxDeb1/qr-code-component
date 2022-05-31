@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+[Live site](https://maxdeb1.github.io/qr-code-component/)
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
